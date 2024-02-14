@@ -30,7 +30,8 @@ This project demonstrates a comparison of different face detection techniques us
 # Face Detection in Video
 This is the same methods but for a video so the detection border change correspond to the face in the video
 
-![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/b38d92e1-295e-4aa8-9430-90b74797cc44)
+![image](https://github.com/Lkoushik29/FaceRecogntion-and-ImageProcessing/assets/91585444/45db2b9d-4a18-4ab5-94db-4563ef4385f0)
+
 
 
 ## Comparison of Face Detection Techniques
