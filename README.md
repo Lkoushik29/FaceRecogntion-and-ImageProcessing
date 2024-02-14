@@ -4,26 +4,27 @@ This project combines face recognition and basic image processing operations int
 ## Description
 The project includes the following features:
 
-## Face Recognition
-Utilizes pre-trained deep learning models for face detection and recognition.
-Recognizes faces in images and videos, with options for labeling and bounding box visualization.
-
-![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/438809b5-f63a-4014-90ab-63f3d69c3cb6)
-
 ## Image Processing
 Demonstrates basic morphological operations such as dilation, erosion, opening, and closing.
 Provides thresholding techniques to create binary masks for image segmentation.
 
 ![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/eb338349-7121-4380-bb77-627b86331d9e)
 
-## Face Detection Comparison
-This project demonstrates a comparison of different face detection techniques using OpenCV in Python. The following techniques are implemented and compared:
+## Face Recognition
+Utilizes pre-trained deep learning models for face detection and recognition.
+Recognizes faces in images and videos, with options for labeling and bounding box visualization.
 
 -> Haar Cascades
 
 -> OpenCV Deep Learning-based Face Detection
 
 -> ResNet SSD Face Detection
+
+![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/438809b5-f63a-4014-90ab-63f3d69c3cb6)
+
+## Face Detection Comparison
+This project demonstrates a comparison of different face detection techniques using OpenCV in Python. The following techniques are implemented and compared:
+
 
 ![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/b38d92e1-295e-4aa8-9430-90b74797cc44)
 
