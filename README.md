@@ -22,9 +22,13 @@ Recognizes faces in images and videos, with options for labeling and bounding bo
 
 ![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/438809b5-f63a-4014-90ab-63f3d69c3cb6)
 
-## Face Detection Comparison
+## Comparison between them
 This project demonstrates a comparison of different face detection techniques using OpenCV in Python. The following techniques are implemented and compared:
 
+![image](https://github.com/Lkoushik29/FaceRecogntion-and-ImageProcessing/assets/91585444/f4a5db43-d71a-4f5f-8a87-ace45091b0a1)
+
+# Face Detection in Video
+This is the same methods but for a video so the detection border change correspond to the face in the video
 
 ![image](https://github.com/Lkoushik29/FaceRecognition/assets/91585444/b38d92e1-295e-4aa8-9430-90b74797cc44)
 
